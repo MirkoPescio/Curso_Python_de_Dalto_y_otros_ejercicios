@@ -91,4 +91,16 @@ print(resultado_bool_dato_13)
 print(resultado_bool_dato_14)
 print("\n")
 
+# sum() suma todos los números de un iterable
+
+suma_lista_1 = sum(lista_1)
+print(suma_lista_1)
+
+
+
+
+
+
+
+
 
