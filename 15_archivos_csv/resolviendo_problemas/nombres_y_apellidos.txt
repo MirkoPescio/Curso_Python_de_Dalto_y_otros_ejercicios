@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombre: Leandro
+Apellido: Vásquez
+----------------------
+Nombre: Adrián
+Apellido: Pisso
+----------------------
+Nombre: Camila
+Apellido: Dalto
+----------------------
+Nombre: Mariana
+Apellido: Martí
+----------------------
+Nombre: Rui
+Apellido: Torres
+----------------------

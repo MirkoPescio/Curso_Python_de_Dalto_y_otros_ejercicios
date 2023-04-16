@@ -1,0 +1,2 @@
+Hola, buenos días/tardes/noches
+¿Cómo te va en el curso de Python? Espero que bien
