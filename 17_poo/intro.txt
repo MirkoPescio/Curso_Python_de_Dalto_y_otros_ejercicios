@@ -1,0 +1,14 @@
+PROYECTO A DESARROLLAR:
+
+Mini Librería
+
+Descripción: Simular un sistema de "almacenamiento" de libros y comics
+
+Propiedades a registrar para cada objeto:
+   * Libros: título, autor, precio, stock y un ID 
+   * Comics: es la misma información que libros, más: 
+        Ilustradores y volumen
+
+** Los usuarios no van a poder modificar ningún valor **
+
+Funciones: cada objeto podrá mostrar su información completa
